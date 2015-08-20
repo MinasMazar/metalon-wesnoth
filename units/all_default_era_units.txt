@@ -1,0 +1,212 @@
+Fencer
+Knight
+Lancer
+Bandit
+Mage of Light
+Master Bowman
+Master at Arms
+Silver Mage
+General
+Iron Mauler
+Sergeant
+Elder Mage
+Fugitive
+Peasant
+Halberdier
+Javelineer
+Spearman
+Thug
+Royal Warrior
+Red Mage
+Dragoon
+Mage
+Cavalier
+Swordsman
+Assassin
+Royal Guard
+Huntsman
+Paladin
+Arch Mage
+Longbowman
+Great Mage
+Pikeman
+Footpad
+Trapper
+Rogue
+White Mage
+Grand Marshal
+Thief
+Duelist
+Ruffian
+Cavalryman
+Outlaw
+Ranger
+Bowman
+Woodsman
+Heavy Infantryman
+Highwayman
+Shock Trooper
+Lieutenant
+Poacher
+Grand Knight
+Horseman
+Ancient Wose
+Wose
+Elder Wose
+Naga Myrmidon
+Naga Fighter
+Naga Warrior
+Transport Galleon
+Galleon
+Pirate Galleon
+Boat
+Goblin Impaler
+Wolf Rider
+Goblin Knight
+Goblin Pillager
+Goblin Rouser
+Goblin Spearman
+Direwolf Rider
+Gryphon
+Gryphon Master
+Gryphon Rider
+Blood Bat
+Dread Bat
+Vampire Bat
+Orcish Assassin
+Orcish Warlord
+Orcish Leader
+Orcish Crossbowman
+Orcish Slurbow
+Orcish Ruler
+Orcish Archer
+Orcish Grunt
+Orcish Slayer
+Orcish Warrior
+Orcish Sovereign
+Troll Rocklobber
+Troll
+Troll Whelp
+Troll Hero
+Troll Shaman
+Great Troll
+Troll Warrior
+Drake Flameheart
+Fire Drake
+Drake Flare
+Drake Enforcer
+Drake Blademaster
+Inferno Drake
+Hurricane Drake
+Sky Drake
+Drake Fighter
+Drake Warden
+Drake Clasher
+Armageddon Drake
+Drake Warrior
+Drake Glider
+Drake Thrasher
+Drake Arbiter
+Drake Burner
+Ancient Lich
+Dark Sorcerer
+Necrophage
+Ghoul
+Shadow
+Skeleton
+Ghast
+Revenant
+Dark Adept
+Soulless
+Draug
+Wraith
+Lich
+Death Knight
+Chocobone
+Banebow
+Skeleton Archer
+Ghost
+Spectre
+Nightgaunt
+Necromancer
+Deathblade
+Walking Corpse
+Bone Shooter
+Elvish Champion
+Elvish Avenger
+Elvish Outrider
+Elvish Scout
+Elvish Shyde
+Elvish Rider
+Elvish Lord
+Elvish Sylph
+Elvish Lady
+Elvish Ranger
+Elvish Captain
+Elvish Sharpshooter
+Elvish Sorceress
+Elvish Fighter
+Elvish Marksman
+Elvish Enchantress
+Elvish Hero
+Elvish Archer
+Elvish Shaman
+Elvish Druid
+Elvish Marshal
+Elvish High Lord
+Saurian Soothsayer
+Saurian Augur
+Saurian Oracle
+Saurian Ambusher
+Saurian Flanker
+Saurian Skirmisher
+Great Wolf
+Fire Dragon
+Mudcrawler
+Fire Guardian
+Giant Spider
+Giant Rat
+Yeti
+Skeletal Dragon
+Cuttle Fish
+Direwolf
+Wolf
+Giant Scorpion
+Giant Mudcrawler
+Water Serpent
+Tentacle of the Deep
+Sea Serpent
+Young Ogre
+Ogre
+Dwarvish Arcanister
+Dwarvish Scout
+Dwarvish Lord
+Dwarvish Thunderguard
+Dwarvish Dragonguard
+Dwarvish Ulfserker
+Dwarvish Pathfinder
+Dwarvish Runemaster
+Dwarvish Fighter
+Dwarvish Explorer
+Dwarvish Guardsman
+Dwarvish Berserker
+Dwarvish Sentinel
+Dwarvish Runesmith
+Dwarvish Thunderer
+Dwarvish Steelclad
+Dwarvish Stalwart
+Fog Clearer
+Merman Hoplite
+Mermaid Siren
+Merman Hunter
+Merman Entangler
+Merman Netcaster
+Mermaid Priestess
+Merman Fighter
+Mermaid Enchantress
+Mermaid Diviner
+Merman Spearman
+Merman Triton
+Merman Javelineer
+Merman Warrior
+Mermaid Initiate
